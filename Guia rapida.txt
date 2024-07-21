@@ -1,0 +1,62 @@
+1. Instalar nugets (6.0.32)
+	a. EFCore
+	b. Core.Design
+	c. Core.SqlServer
+	d. Core.Tools
+	e. AutoMapper
+2. En appsetings poner cadena de conexión tal que asi
+
+  "ConnectionStrings": {
+    "dbParcial": "server = SQL5111.site4now.net; user id = db_aa579f_prog3w1_admin; password = 1234TUp@2@;initial catalog=db_aa579f_prog3w1"
+  }
+
+3.  En el git
+    dotnet ef *nombreBD* scaffold "name= connectionstrings:*nombreDB*" microsoft.entityframeworkcore.sqlserver -o models
+    y si no anda
+    dotnet tool install --global dotnet-ef	
+		
+	
+4. Creacion de capa repository, impl y service impl. Todas sus funciones son con Task<>
+	a. En el repoImpl, crear private readonly _context.
+	b. Todas las funciones en repoImpl van _context.*tabla*.loquehagafalta
+	Esto puede ser FindAsync(dni), ToListAsync(), FirstOrDefaultAsync(x => x.Dni == dni)
+	Tambien existen post, que requieren AddAsync() y SaveChangesAsync(). 
+	c. En el serviceImpl, crear private readonly de los repos a utilizar
+	Sus funciones invocaran las creadas en RepoImpl
+5. Creacion de capa MappingConfiguration : Profile
+	a. Funcion CreateMap para cada clase con su DTO, y viceversa en caso de post.
+	Ej: CreateMap<Deporte, DeporteDto>();	
+	CreateMap<Socio, SocioDto>().ForMember(dest => dest.nombreDeporte, opt => opt.MapFrom(src => src.IdDeporteNavigation.Nombre));
+	Esa linea se utiliza en caso de tablas con FK, reemplaza la id presente en la tabla madre
+	por el nombre correspondiente.
+6. Creacion de capa Controller : ControllerBase, que invoca al IService y al IMapper priv readonly
+	a. Toda funcion asyn task esta sobrepuesta por la accion que se realizara sobre la API
+	[HttpGet("Mapeo")] para get [HttpPost("mapeo")] para post
+
+Ejemplo:  [HttpGet("GetAllSocios")]
+ public async Task<ActionResult<SocioDto>> GetAll()
+ {
+     List<Socio> responseService = await _service.GetAllAsync();
+     if (responseService.Count == 0)
+     {
+         return NotFound();
+     }
+     List<SocioDto> listaFinal = new List<SocioDto>();
+     foreach (var item in responseService)
+     {
+         if (item.Activo)
+         {
+             listaFinal.Add(_mapper.Map<SocioDto>(item));
+         }
+     }
+
+     return Ok(listaFinal);
+ }
+
+7. En el program agregar lo siguiente:
+builder.Services.AddDbContext<db_aa579f_prog3w1Context>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("dbParcial")));
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+builder.Services.AddScoped<ISocioService, SocioService>();
+builder.Services.AddScoped<IDeporteRepository, DeporteRepositoryImpl>();
+builder.Services.AddScoped<ISocioRepository, SocioRepositoryImpl>();
+	

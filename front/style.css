@@ -1,0 +1,17 @@
+.login {
+    margin-top: 50px;
+    border-radius: 5px;
+    border: 2px solid #000000;
+    padding: 30px;
+    width: 600px;
+    justify-content: center;
+  }
+
+  .navbar {
+  
+  }
+
+  label.error {
+    color:red;
+    font-size: 13px;
+}
