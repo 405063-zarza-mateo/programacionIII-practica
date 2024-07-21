@@ -2582,11 +2582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\deportesApi\\deportesApi\\deportesApi.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\deportesApi.csproj",
       "projectName": "deportesApi",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\deportesApi\\deportesApi\\deportesApi.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\deportesApi.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\deportesApi\\deportesApi\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

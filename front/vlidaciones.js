@@ -1,7 +1,6 @@
 $(document).ready(function () {
-
-    const today = new Date().toISOString().split('T')[0];
-    document.getElementById('tiempoAlta').value = today;
+  const today = new Date().toISOString().split("T")[0];
+  document.getElementById("tiempoAlta").value = today;
 
   $("#loginForm").validate({
     rules: {
@@ -76,13 +75,16 @@ $(document).ready(function () {
         required: "Debe seleccionar un deporte.",
       },
     },
-    onfocusout: false, // Desactivar la validación al perder el foco
-    onkeyup: false, // Desactivar la validación al escribir en los campos
+    onfocusout: false,
+    onkeyup: false,
     submitHandler: function (form) {
-      window.location.href = "documento.html";
+      window.location.href = "datos.html";
     },
     errorPlacement: function (error, element) {
-      error.insertAfter(element); // Mueve el mensaje de error después del input
+      error.insertAfter(element);
+    },
+    invalidHandler: function (event, validator) {
+      alert("No se pudo concretar el alta. Corrija los errores primero.");
     },
   });
 

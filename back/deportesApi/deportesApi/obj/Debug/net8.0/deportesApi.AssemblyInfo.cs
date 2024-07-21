@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deportesApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f587b239b57b4f24cf3ee1ced7a8150cec8387e")]
 [assembly: System.Reflection.AssemblyProductAttribute("deportesApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deportesApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

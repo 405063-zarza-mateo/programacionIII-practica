@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wo4BBsL0TDo=",
+  "dgSpecHash": "7E1JFzo3kys=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\deportesApi\\deportesApi\\deportesApi.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\deportesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
