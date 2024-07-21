@@ -1,6 +1,5 @@
 $(document).ready(function () {
-  const today = new Date().toISOString().split("T")[0];
-  document.getElementById("tiempoAlta").value = today;
+
 
   $("#loginForm").validate({
     rules: {
@@ -31,6 +30,10 @@ $(document).ready(function () {
       },
       calle: {
         required: true,
+      },
+      numero:{
+        required:true,
+        number:true,
       },
       ciudad: {
         required: true,
@@ -68,6 +71,9 @@ $(document).ready(function () {
       calle: {
         required: "Se debe ingresar una calle.",
       },
+      numero:{
+        required: "Se debe ingresar un numero de calle.",
+      },
       ciudad: {
         required: "Se debe ingresar una ciudad.",
       },
@@ -77,9 +83,9 @@ $(document).ready(function () {
     },
     onfocusout: false,
     onkeyup: false,
-    submitHandler: function (form) {
+/*     submitHandler: function (form) {
       window.location.href = "datos.html";
-    },
+    }, */
     errorPlacement: function (error, element) {
       error.insertAfter(element);
     },

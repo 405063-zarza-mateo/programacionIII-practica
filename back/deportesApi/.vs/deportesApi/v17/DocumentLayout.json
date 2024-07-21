@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\repositories\\impl\\sociorepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\repositories\\impl\\sociorepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\dtos\\sociopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\dtos\\sociopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\services\\impl\\socioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\services\\impl\\socioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\services\\isocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\services\\isocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\repositories\\impl\\deporterepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\repositories\\impl\\deporterepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\repositories\\impl\\sociorepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\repositories\\impl\\sociorepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\services\\impl\\socioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\services\\impl\\socioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\repositories\\impl\\deporterepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\repositories\\impl\\deporterepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\validators\\postsociovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\validators\\postsociovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\controllers\\sociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\services\\isocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\services\\isocioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\dtos\\sociopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|solutionrelative:deportesapi\\dtos\\sociopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACE2FBAF-9249-4055-B5A2-378FC293DB01}|deportesApi\\deportesApi.csproj|c:\\users\\usuario\\desktop\\programacioniii-practica\\back\\deportesapi\\deportesapi\\repositories\\isociorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,23 +82,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeporteRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
-              "RelativeToolTip": "deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "MappingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\MappingConfiguration.cs",
+              "RelativeDocumentMoniker": "deportesApi\\MappingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\MappingConfiguration.cs",
+              "RelativeToolTip": "deportesApi\\MappingConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:19:41.932Z"
+              "WhenOpened": "2024-07-16T20:00:32.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "SocioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioDto.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Dtos\\SocioDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioDto.cs",
+              "RelativeToolTip": "deportesApi\\Dtos\\SocioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:41:02.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocioRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
+              "RelativeToolTip": "deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:29:40.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\Impl\\SocioService.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Services\\Impl\\SocioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\Impl\\SocioService.cs",
+              "RelativeToolTip": "deportesApi\\Services\\Impl\\SocioService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:58:41.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deporte.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\models\\Deporte.cs",
+              "RelativeDocumentMoniker": "deportesApi\\models\\Deporte.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\models\\Deporte.cs",
+              "RelativeToolTip": "deportesApi\\models\\Deporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:56:46.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocioPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioPostDto.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Dtos\\SocioPostDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioPostDto.cs",
+              "RelativeToolTip": "deportesApi\\Dtos\\SocioPostDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T19:41:10.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Socio.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\models\\Socio.cs",
               "RelativeDocumentMoniker": "deportesApi\\models\\Socio.cs",
@@ -110,27 +174,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Program.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Program.cs",
-              "RelativeToolTip": "deportesApi\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAACAAAA",
+              "DocumentIndex": 6,
+              "Title": "DeporteRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
+              "RelativeToolTip": "deportesApi\\Repositories\\Impl\\DeporteRepositoryImpl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T22:25:15.34Z"
+              "WhenOpened": "2024-07-15T21:19:41.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MappingConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\MappingConfiguration.cs",
-              "RelativeDocumentMoniker": "deportesApi\\MappingConfiguration.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\MappingConfiguration.cs",
-              "RelativeToolTip": "deportesApi\\MappingConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "SocioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Controllers\\SocioController.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Controllers\\SocioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Controllers\\SocioController.cs",
+              "RelativeToolTip": "deportesApi\\Controllers\\SocioController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAqwEQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T20:00:32.756Z"
+              "WhenOpened": "2024-07-16T19:38:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISocioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\ISocioService.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Services\\ISocioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\ISocioService.cs",
+              "RelativeToolTip": "deportesApi\\Services\\ISocioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:58:29.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostSocioValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Validators\\PostSocioValidator.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Validators\\PostSocioValidator.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Validators\\PostSocioValidator.cs",
+              "RelativeToolTip": "deportesApi\\Validators\\PostSocioValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:47:01.286Z"
             },
             {
               "$type": "Document",
@@ -146,100 +236,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PostSocioValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Validators\\PostSocioValidator.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Validators\\PostSocioValidator.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Validators\\PostSocioValidator.cs",
-              "RelativeToolTip": "deportesApi\\Validators\\PostSocioValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T21:47:01.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SocioDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioDto.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Dtos\\SocioDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioDto.cs",
-              "RelativeToolTip": "deportesApi\\Dtos\\SocioDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:41:02.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SocioRepositoryImpl.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
-              "RelativeToolTip": "deportesApi\\Repositories\\Impl\\SocioRepositoryImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:29:40.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SocioService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\Impl\\SocioService.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Services\\Impl\\SocioService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\Impl\\SocioService.cs",
-              "RelativeToolTip": "deportesApi\\Services\\Impl\\SocioService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAcwCwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:58:41.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Deporte.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\models\\Deporte.cs",
-              "RelativeDocumentMoniker": "deportesApi\\models\\Deporte.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\models\\Deporte.cs",
-              "RelativeToolTip": "deportesApi\\models\\Deporte.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T20:56:46.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SocioController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Controllers\\SocioController.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Controllers\\SocioController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Controllers\\SocioController.cs",
-              "RelativeToolTip": "deportesApi\\Controllers\\SocioController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:38:39.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SocioPostDto.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioPostDto.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Dtos\\SocioPostDto.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Dtos\\SocioPostDto.cs",
-              "RelativeToolTip": "deportesApi\\Dtos\\SocioPostDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T19:41:10.229Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ISocioService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\ISocioService.cs",
-              "RelativeDocumentMoniker": "deportesApi\\Services\\ISocioService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Services\\ISocioService.cs",
-              "RelativeToolTip": "deportesApi\\Services\\ISocioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAcAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Program.cs",
+              "RelativeDocumentMoniker": "deportesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\Program.cs",
+              "RelativeToolTip": "deportesApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:58:29.503Z"
+              "WhenOpened": "2024-07-15T22:25:15.34Z"
             },
             {
               "$type": "Document",

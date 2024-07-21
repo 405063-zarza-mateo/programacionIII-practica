@@ -65,7 +65,8 @@ namespace deportesApi.Controllers
         public async Task<ActionResult<Socio>> Post([FromBody] SocioPostDto s)
         {
             Socio nuevo = _mapper.Map<Socio>(s);
-
+            nuevo.Id = Guid.NewGuid();
+            nuevo.FechaAlta = DateTime.Now;
             Socio response = await _service.PostSocioAsync(nuevo);
 
             return Ok(response);
