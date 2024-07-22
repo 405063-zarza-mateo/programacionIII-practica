@@ -2576,24 +2576,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\CRIS LASCANO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\deportesApi.csproj",
+      "projectUniqueName": "C:\\Users\\CRIS LASCANO\\Desktop\\Mateo\\programacionIII-practica\\back\\deportesApi\\deportesApi\\deportesApi.csproj",
       "projectName": "deportesApi",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\deportesApi.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\programacionIII-practica\\back\\deportesApi\\deportesApi\\obj\\",
+      "projectPath": "C:\\Users\\CRIS LASCANO\\Desktop\\Mateo\\programacionIII-practica\\back\\deportesApi\\deportesApi\\deportesApi.csproj",
+      "packagesPath": "C:\\Users\\CRIS LASCANO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CRIS LASCANO\\Desktop\\Mateo\\programacionIII-practica\\back\\deportesApi\\deportesApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\CRIS LASCANO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2681,7 +2676,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
